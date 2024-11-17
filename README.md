@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I’m @CasualGarageCoder. I can be found on Twitter as @CGarageCoder, on Instagram as @CGarageCoder, on <a rel="me" href="https://mastodon.gamedev.place/@casualgaragecoder">Mastodon</a>  and on Youtube as CasualGarageCoder.
+Hi, I’m @CasualGarageCoder. I can be found on [Bluesky](https://bsky.app/profile/casualgaragecoder.bsky.social), on ~~Twitter~~ X as @CGarageCoder, on Instagram as @CGarageCoder, on <a rel="me" href="https://mastodon.gamedev.place/@casualgaragecoder">Mastodon</a>  and on Youtube as CasualGarageCoder.
 
 I make games on my spare time.
 
